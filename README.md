@@ -1,9 +1,6 @@
 # Variáveis e condicionais🚀
 
-Nesta aula abordamos assuntos realcionados a variéveis e condicionais na linguagem de programação Python. 
-
-
-
+Nesta aula abordamos assuntos realcionados a variáveis e condicionais na linguagem de programação Python. 
 
 # 🔌Como fazer funcionar na sua máquina:
 
@@ -26,5 +23,5 @@ Nesta aula abordamos assuntos realcionados a variéveis e condicionais na lingua
 
 ## Autores:
 
-> Nome 
->
+> Beatriz Alves  
+
